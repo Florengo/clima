@@ -1,0 +1,58 @@
+.Nav{
+    display: flex ;
+    justify-content: left;
+    background-color:#363636;
+    text-decoration: none;
+    height: 50px;
+}
+
+.Text{
+    text-decoration: none;
+    color: white;
+    align-self: center;
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+
+.Text2{
+    text-decoration: none;
+    color: white;
+    align-self: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input {
+    height: 20px;
+    display: flex;
+    align-self: center;
+    margin-left: 700px;
+}
+
+.button {
+    display: flex;
+    align-self: center;
+    height: 26px;
+}
+
+.location {
+    display: flex;
+    width: 100px;
+    margin-left: 80px;
+    justify-content: center;
+    align-content: center;
+}
+
+.icono {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.textoo {
+    width: 170px;
+    text-decoration: none;
+    color: white;
+    align-self: center;
+    font-size: 12px;
+    font-weight: 500;
+}

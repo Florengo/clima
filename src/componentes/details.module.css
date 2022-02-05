@@ -1,0 +1,206 @@
+.card{
+    /* background-color: lightgrey; */
+    width: 70%;
+    height: 45%;
+    margin-top: 2%;
+    margin-left: 15%;
+    color: black;
+}
+
+.rows{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.text{
+    text-decoration: none !important;
+    color: whitesmoke;
+}
+
+.button {
+    display: flex;
+    justify-content: right;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+
+.temp {
+    font-size: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.minTemp {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: large;
+    align-self: flex-end;
+}
+
+.maxTemp {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    align-self: flex-end;
+}
+
+.twoTemps {
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+    justify-content: center;
+}
+
+.deleteMargin {
+    margin-bottom: 0px;
+}
+
+#c01d {
+    background-image: url('https://i.ibb.co/XLDrF7M/pexels-stanislav-kondratiev-2909261.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c01n {
+    background-image: url('https://images.pexels.com/photos/1694000/pexels-photo-1694000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c02d {
+    background-image: url('https://images.pexels.com/photos/139366/pexels-photo-139366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c02n {
+    background-image: url('https://images.pexels.com/photos/2885320/pexels-photo-2885320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c03d {         
+    background-image: url('https://images.pexels.com/photos/3783385/pexels-photo-3783385.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -250px;
+}
+
+#c03n {
+    background-image: url('https://images.unsplash.com/photo-1572162522099-7a0c28d7691b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -200px;
+}
+
+#c04d {
+    background-image: url('https://images.pexels.com/photos/414659/pexels-photo-414659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c04n {
+    background-image: url('https://i.ibb.co/5KmM0nv/Whats-App-Image-2022-01-10-at-7-45-17-PM.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c09d {
+    background-image: url('https://images.pexels.com/photos/8549415/pexels-photo-8549415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c09n {
+    background-image: url('https://i.ytimg.com/vi/7JyE47-Ykjo/maxresdefault.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c10d {
+    background-image: url('https://images.pexels.com/photos/8549415/pexels-photo-8549415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c10n {
+    background-image: url('https://i.ytimg.com/vi/7JyE47-Ykjo/maxresdefault.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c11d {
+    background-image: url('https://images.pexels.com/photos/6029507/pexels-photo-6029507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -170px;
+}
+
+#c11n {
+    background-image: url('https://images.pexels.com/photos/7629905/pexels-photo-7629905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -180px;
+}
+
+#c13n {
+    background-image: url('https://images.pexels.com/photos/1417647/pexels-photo-1417647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c13d{
+    background-image: url('https://images.pexels.com/photos/1297692/pexels-photo-1297692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c50d{
+    background-image: url('https://images.pexels.com/photos/6495321/pexels-photo-6495321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position-y: -180px;
+}
+
+#c50n{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/523/275/621/night-road-forest-mist-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.nextdays {
+    display: flex;
+    flex-direction: row;
+    margin-left: 135px;
+    margin-top: 10px;
+    column-gap: 10px;
+}
+
+.hum {
+    color: black;
+}
+
+.conditions {
+    color: #868686;
+    display: flex;
+    flex-direction: row;
+}
+
+.each {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    text-align: left;
+}
+
+.noMargin {
+    margin: 0 0 0 0;
+}
+
+.allCon {
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    margin-top: 25px;
+}

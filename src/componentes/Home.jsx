@@ -6,7 +6,7 @@ import style from './Home.module.css'
 
 export default function Home() {
 
-
+//jjj
     const cities = useSelector(state => state.cities)
 
     let emptyHome = cities.length
